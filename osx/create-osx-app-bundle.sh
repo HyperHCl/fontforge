@@ -165,6 +165,8 @@ cd $bundle_bin
 #
 # python can't be assumed to exist on the machine
 #
+
+# Going to ignore this on later OS X.
 cd $bundle_bin
 cp -av /opt/local/Library/Frameworks/Python.framework/Versions/2.7/Python .
 cd $bundle_bin
